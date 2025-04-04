@@ -1,0 +1,50 @@
+body{font-family: "Courier";
+  text-align: center;
+ */ background-color:rgba(245,244,230);
+  background: url("https://live.staticflickr.com/65535/54425704866_6e4a195b3c_n.jpg");
+  
+  );
+  background-size: 100%, 100%; 
+  background-repeat: no-repeat; 
+  background-position-y: -310px
+  
+}
+h1{
+  font-size: 70px;
+  color:rgba(245,244,230);
+  margin-top: 50px
+    .container {display: inline block;}
+ } 
+h2{color:rgba(245,244,230);
+
+}
+
+p{
+  color: white;
+  margin-left: 200px;
+  margin-right: 200px 
+} 
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  color: white;
+  text-align: center;
+  font: "courier"
+  padding: 30px 30px;
+  text-decoration: inherit;
+  font-size: 30px;
+}
+li a:hover {
+  background-color: white;
+  color: black;
+}
